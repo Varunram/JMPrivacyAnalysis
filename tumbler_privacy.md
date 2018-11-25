@@ -278,7 +278,7 @@ As mentioned in the [introductory section](#executive-summary), it isn't obvious
 
 ![](/images/Closures-TXs.png)
 
-Worthy of note is the role played by yield generator algorithms. Yield generators ofer to mix from all of their mixdepths at different prices, generally. There is no guarantee that they will choose a different mixdepth from one transaction to the next, therefore closure mapping reuse on their part from one transaction to the next is far from unlikely. An example might be the linkage 3-6-8 in the above diagram. Is it a tumbler or simply the operation of a yield generator? It *seems* to be a good thing in the context of this analysis, as it will tend to increase obfuscation, but it's no simple matter.
+Worthy of note is the role played by yield generator algorithms. Yield generators offer to mix from all of their mixdepths at different prices, generally. There is no guarantee that they will choose a different mixdepth from one transaction to the next, therefore closure mapping reuse on their part from one transaction to the next is far from unlikely. An example might be the linkage 3-6-8 in the above diagram. Is it a tumbler or simply the operation of a yield generator? It *seems* to be a good thing in the context of this analysis, as it will tend to increase obfuscation, but it's no simple matter.
 
 ## Ameliorations
 
